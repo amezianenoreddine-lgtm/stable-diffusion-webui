@@ -94,6 +94,12 @@ A web interface for Stable Diffusion, implemented using Gradio library.
 - [Segmind Stable Diffusion](https://huggingface.co/segmind/SSD-1B) support
 
 ## Installation and Running
+Run the helper script first to verify your local environment:
+
+```bash
+python check_environment.py
+```
+
 Make sure the required [dependencies](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Dependencies) are met and follow the instructions available for:
 - [NVidia](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-NVidia-GPUs) (recommended)
 - [AMD](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs) GPUs.
